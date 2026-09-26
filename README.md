@@ -2,4 +2,4 @@
 
 ## Descripción
 
-### Repaso de ayer
+### Repaso del día de ayer
